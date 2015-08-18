@@ -1,0 +1,13 @@
+{
+  "name": "openpermit",
+  "version": "0.0.1",
+  "description": "A RESTful API for permit information using the BLDS data format",
+  "main": "index.js",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "request": "latest"
+  },
+  "author": "Mark Headd <mheadd@accela.com> (http://developer.accela.com/)",
+  "license": "BSD"
+}
